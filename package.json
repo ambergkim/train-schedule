@@ -1,0 +1,17 @@
+{
+  "name": "train-schedule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "test": "tape tests/*.*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^5.3.1"
+  },
+  "dependencies": {}
+}
